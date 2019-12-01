@@ -1,0 +1,8 @@
+C:\Users\dimah\Desktop\ExamTask\ExamTask.Common\bin\Debug\netcoreapp2.2\ExamTask.Common.deps.json
+C:\Users\dimah\Desktop\ExamTask\ExamTask.Common\bin\Debug\netcoreapp2.2\ExamTask.Common.dll
+C:\Users\dimah\Desktop\ExamTask\ExamTask.Common\bin\Debug\netcoreapp2.2\ExamTask.Common.pdb
+C:\Users\dimah\Desktop\ExamTask\ExamTask.Common\obj\Debug\netcoreapp2.2\ExamTask.Common.csproj.CoreCompileInputs.cache
+C:\Users\dimah\Desktop\ExamTask\ExamTask.Common\obj\Debug\netcoreapp2.2\ExamTask.Common.AssemblyInfoInputs.cache
+C:\Users\dimah\Desktop\ExamTask\ExamTask.Common\obj\Debug\netcoreapp2.2\ExamTask.Common.AssemblyInfo.cs
+C:\Users\dimah\Desktop\ExamTask\ExamTask.Common\obj\Debug\netcoreapp2.2\ExamTask.Common.dll
+C:\Users\dimah\Desktop\ExamTask\ExamTask.Common\obj\Debug\netcoreapp2.2\ExamTask.Common.pdb

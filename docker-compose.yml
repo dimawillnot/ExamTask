@@ -1,0 +1,8 @@
+version: '3.4'
+
+services:
+  examtask.api:
+    image: ${DOCKER_REGISTRY-}examtaskapi
+    build:
+      context: .
+      dockerfile: ExamTask\Dockerfile

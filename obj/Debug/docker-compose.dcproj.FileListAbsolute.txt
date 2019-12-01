@@ -1,0 +1,11 @@
+C:\Users\dimah\Desktop\ExamTask\bin\Debug\ExamTask.API.dll
+C:\Users\dimah\Desktop\ExamTask\bin\Debug\ExamTask.Common.dll
+C:\Users\dimah\Desktop\ExamTask\bin\Debug\ExamTask.Services.dll
+C:\Users\dimah\Desktop\ExamTask\bin\Debug\DBO.dll
+C:\Users\dimah\Desktop\ExamTask\bin\Debug\ExamTask.API.pdb
+C:\Users\dimah\Desktop\ExamTask\bin\Debug\ExamTask.Common.pdb
+C:\Users\dimah\Desktop\ExamTask\bin\Debug\ExamTask.Services.pdb
+C:\Users\dimah\Desktop\ExamTask\bin\Debug\DBO.pdb
+C:\Users\dimah\Desktop\ExamTask\obj\Debug\docker-compose.dcprojAssemblyReference.cache
+C:\Users\dimah\Desktop\ExamTask\obj\Debug\docker-compose.dcproj.CoreCompileInputs.cache
+C:\Users\dimah\Desktop\ExamTask\obj\Debug\docker-compose.dcproj.CopyComplete

@@ -1,0 +1,14 @@
+C:\Users\dimah\Desktop\ExamTask\ExamTask.Services\bin\Debug\netcoreapp2.2\ExamTask.Services.deps.json
+C:\Users\dimah\Desktop\ExamTask\ExamTask.Services\bin\Debug\netcoreapp2.2\ExamTask.Services.dll
+C:\Users\dimah\Desktop\ExamTask\ExamTask.Services\bin\Debug\netcoreapp2.2\ExamTask.Services.pdb
+C:\Users\dimah\Desktop\ExamTask\ExamTask.Services\bin\Debug\netcoreapp2.2\DBO.dll
+C:\Users\dimah\Desktop\ExamTask\ExamTask.Services\bin\Debug\netcoreapp2.2\DBO.pdb
+C:\Users\dimah\Desktop\ExamTask\ExamTask.Services\obj\Debug\netcoreapp2.2\ExamTask.Services.csprojAssemblyReference.cache
+C:\Users\dimah\Desktop\ExamTask\ExamTask.Services\obj\Debug\netcoreapp2.2\ExamTask.Services.csproj.CoreCompileInputs.cache
+C:\Users\dimah\Desktop\ExamTask\ExamTask.Services\obj\Debug\netcoreapp2.2\ExamTask.Services.AssemblyInfoInputs.cache
+C:\Users\dimah\Desktop\ExamTask\ExamTask.Services\obj\Debug\netcoreapp2.2\ExamTask.Services.AssemblyInfo.cs
+C:\Users\dimah\Desktop\ExamTask\ExamTask.Services\obj\Debug\netcoreapp2.2\ExamTask.Services.csproj.CopyComplete
+C:\Users\dimah\Desktop\ExamTask\ExamTask.Services\obj\Debug\netcoreapp2.2\ExamTask.Services.dll
+C:\Users\dimah\Desktop\ExamTask\ExamTask.Services\obj\Debug\netcoreapp2.2\ExamTask.Services.pdb
+C:\Users\dimah\Desktop\ExamTask\ExamTask.Services\bin\Debug\netcoreapp2.2\ExamTask.Common.dll
+C:\Users\dimah\Desktop\ExamTask\ExamTask.Services\bin\Debug\netcoreapp2.2\ExamTask.Common.pdb
